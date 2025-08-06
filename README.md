@@ -39,8 +39,7 @@ Follow these instructions to get the game running on your local machine.
 ### Installation & Setup
 
 1.  Clone the repository (or simply download the files into a new folder):
-        git clone https://github.com/JyotiRanjan784/CodSoft.git
-    cd tic-tac-toe-ai
+        git clone https://github.com/JyotiRanjan784/CodSoft-Task2-TicTacToe-AI.git
     
 
 2.  Create and activate a virtual environment (recommended):
@@ -64,3 +63,4 @@ With your virtual environment active and packages installed, run the following c
 ```bash
 
 streamlit run tic_tac_toe_app.py
+
